@@ -11,7 +11,7 @@ This project demonstrates the design and verification of basic digital logic cir
 - Xilinx Vivado (Simulation)
 - Verilog HDL
 
-### waveforms
+### Traffic light controller Waveforms
 ![Waveforms](https://github.com/chittemvasanthkumar/digital-logic-verilog/blob/main/waveforms/traffic_light_waveform.png?raw=true)
 
 ## Verification
