@@ -14,6 +14,9 @@ This project demonstrates the design and verification of basic digital logic cir
 - Xilinx Vivado (Simulation)
 - Verilog HDL
 
+### waveforms
+![Waveforms]()
+
 ## Verification
 All modules were verified using self-written testbenches and waveform analysis.
 
