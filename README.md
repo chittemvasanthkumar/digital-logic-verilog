@@ -1,6 +1,3 @@
-# digital-logic-verilog
-Digital Logic Design and Verification using Verilog HDL
-
 # Digital Logic Design using Verilog HDL
 
 This project demonstrates the design and verification of basic digital logic circuits using Verilog HDL.
