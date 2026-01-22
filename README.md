@@ -15,7 +15,7 @@ This project demonstrates the design and verification of basic digital logic cir
 - Verilog HDL
 
 ### waveforms
-![Waveforms]()
+![Waveforms](https://github.com/chittemvasanthkumar/digital-logic-verilog/blob/main/waveforms/traffic_light_waveform.png?raw=true)
 
 ## Verification
 All modules were verified using self-written testbenches and waveform analysis.
